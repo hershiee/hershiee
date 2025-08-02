@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=hershiee&label=Profile%20views&color=0e75b6&style=flat)
+
 <!-- Banner or GIF (optional) -->
 <!-- ![Banner](https://your-banner-link-here) -->
 
