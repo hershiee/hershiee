@@ -145,9 +145,7 @@ mindmap
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/hershiee?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FKolkata)
-
-</div>
+![Metrics](https://github.com/hershiee/hershiee/blob/main/github-metrics.svg)
 
 ---
 
