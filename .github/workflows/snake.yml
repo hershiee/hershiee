@@ -1,0 +1,50 @@
+# GitHub Action for generating a snake game from GitHub contribution graph
+# This file should be placed at: .github/workflows/snake.yml in your profile repository
+
+name: Generate Snake Game
+
+# Controls when the action will run
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: [ main ]
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+  # Run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      
+      # Generates the snake game from your contribution graph
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          # GitHub username (replace 'hershiee' with your actual username if different)
+          github_user_name: hershiee
+          
+          # List of files to generate (you can add more formats if needed)
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?color_snake=orange&color_dots=#bfd6f6,#8cc8c8,#ffcc5c,#fd6c6c,#c6a0f6
+
+      # Push the generated files back to the repository
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'dist'
+          message: 'Update snake animations'
+          default_author: github_actions
