@@ -3,6 +3,9 @@
 
 name: Generate Snake Game
 
+permissions:
+  contents: write
+
 # Controls when the action will run
 on:
   # Runs on pushes targeting the default branch
