@@ -1,33 +1,170 @@
-<h1 align="center">Hi 👋, I'm Harshita Gupta</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hershiee&label=Profile%20views&color=0e75b6&style=flat" alt="hershiee" /> </p>
+# Hi there! 👋 I'm Harshita Gupta
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hershiee" alt="hershiee" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Java+%26+Spring+Boot+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
 
-- 🔭 I'm currently working on [Build On Coffee](https://build-on-coffee.vercel.app/)
+### 🚀 Passionate Software Developer from India 🇮🇳
 
-- 🌱 I'm currently learning **Java, SpringBoot, DSA, AWS**
+<img src="https://komarev.com/ghpvc/?username=hershiee&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/hershiee?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
 
-- 📫 How to reach me **gharshita035@gmail.com**
+---
 
-- ⚡ Fun fact **I've got one foot in Java and the other in hackathons, making you a full-time bug fixer and part-time innovator**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshita-gupta-283a15172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita-gupta-283a15172" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<h3 align="left">📈 Contribution Graph:</h3>
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hershiee&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hershiee&theme=nord&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hershiee&show_icons=true&locale=en&layout=compact" alt="hershiee" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hershiee&show_icons=true&locale=en" alt="hershiee" /></p>
+## 🔥 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hershiee&" alt="hershiee" /></p>
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🔭 **Currently Working On:** [Build On Coffee](https://build-on-coffee.vercel.app/) ☕
+
+🌱 **Learning Journey:** Java | SpringBoot | DSA | AWS ☁️
+
+💡 **Fun Fact:** I've got one foot in Java and the other in hackathons, making me a full-time bug fixer and part-time innovator! 🐛✨
+
+📧 **Get In Touch:** gharshita035@gmail.com
+
+🎯 **Goal:** Building scalable solutions that make a difference!
+
+<br clear="both"/>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshita-gupta-283a15172)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hershiee)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gharshita035@gmail.com)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+
+### 🌐 Frontend Development
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+
+### 🔧 Backend Development
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+
+### 🗄️ Databases
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+
+### ☁️ Cloud & DevOps
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+
+### 🔨 Development Tools
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]()
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+### 🔥 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hershiee&custom_title=Harshita's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+### 📊 GitHub Stats
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=hershiee&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hershiee&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="48%" />
+
+</div>
+
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hershiee&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
+
+### 📈 Contribution Stats
+<img src="https://github-contributor-stats.vercel.app/api?username=hershiee&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Stats" width="60%" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Harshita's<br/>Tech Journey))
+    Backend Development
+      Java & Spring Boot
+      Microservices
+      REST APIs
+    Frontend Skills
+      React.js
+      JavaScript ES6+
+      Responsive Design
+    Cloud Technologies
+      AWS Services
+      Docker Containers
+      DevOps Practices
+    Problem Solving
+      Data Structures
+      Algorithms
+      System Design
+```
+
+</div>
+
+---
+
+## 🏃‍♀️ Fun Stats
+
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/hershiee?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FKolkata)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🐍 Watch my contributions get eaten by the snake!
+![Snake animation](https://raw.githubusercontent.com/hershiee/hershiee/output/snake.svg)
+
+---
+
+**✨ "Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+⭐️ From [Harshita Gupta](https://github.com/hershiee)
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
