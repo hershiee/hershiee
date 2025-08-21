@@ -30,16 +30,16 @@ jobs:
       
       # Generates the snake game from your contribution graph
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
-          # GitHub username (replace 'hershiee' with your actual username if different)
+          # GitHub username
           github_user_name: hershiee
           
-          # List of files to generate (you can add more formats if needed)
+          # List of files to generate
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif?color_snake=orange&color_dots=#bfd6f6,#8cc8c8,#ffcc5c,#fd6c6c,#c6a0f6
+            dist/ocean.gif?color_snake=#7AC142&color_dots=#bfd6f6,#8cc8c8,#ffcc5c,#fd6c6c,#c6a0f6
 
       # Push the generated files back to the repository
       - name: Push to GitHub
