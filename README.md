@@ -157,7 +157,7 @@ mindmap
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🐍 Watch my contributions get eaten by the snake!
-![Snake animation](https://raw.githubusercontent.com/hershiee/hershiee/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/hershiee/hershiee/main/dist/snake.svg)
 
 ---
 
