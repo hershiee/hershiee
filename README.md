@@ -145,7 +145,7 @@ mindmap
 
 <div align="center">
 
-![Metrics](https://github.com/hershiee/hershiee/blob/main/github-metrics.svg)
+![Metrics](https://github.com/hershiee/hershiee/blob/main/github-metrics.svg?v=1)
 
 ---
 
