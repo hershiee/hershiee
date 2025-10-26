@@ -22,8 +22,6 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🔭 **Currently Working On:** [Build On Coffee](https://build-on-coffee.vercel.app/) ☕
-
 🌱 **Learning Journey:** Java | SpringBoot | DSA | AWS ☁️
 
 💡 **Fun Fact:** I've got one foot in Java and the other in hackathons, making me a full-time bug fixer and part-time innovator! 🐛✨
