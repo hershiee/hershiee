@@ -23,7 +23,7 @@ name: Harshita Gupta
 role: Final Year CSE Student | Aspiring Backend Developer
 batch: 2026
 education: B.Tech in Computer Science Engineering
-location: Ghaziabad, Uttar Pradesh, India
+location: Dehradun, Uttarakhand, India
 status: Actively seeking SDE roles & internships
 
 currently_learning:
