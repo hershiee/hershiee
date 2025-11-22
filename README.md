@@ -170,8 +170,6 @@ An intelligent grievance and feedback management system with:
 
 ## 🎯 SDE Preparation Roadmap
 
-## 🎯 SDE Preparation Roadmap
-
 <div align="center">
 
 ```mermaid
@@ -198,7 +196,7 @@ mindmap
 ```
 
 </div>
----
+
 
 ## 📈 Coding Profiles
 
