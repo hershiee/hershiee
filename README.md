@@ -14,8 +14,12 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hershiee&theme=nord&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-  [![An image of @hershiee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hershiee)](https://holopin.io/@hershiee)
 </p>
+
+## 🧩 Holopin Badges
+
+[![Holopin Badges](https://holopin.me/hershiee)](https://holopin.io/@hershiee)
+
 
 ---
 
