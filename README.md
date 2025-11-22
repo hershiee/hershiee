@@ -170,7 +170,10 @@ An intelligent grievance and feedback management system with:
 
 ## 🎯 SDE Preparation Roadmap
 
+## 🎯 SDE Preparation Roadmap
+
 <div align="center">
+
 ```mermaid
 mindmap
   root((SDE Journey))
@@ -193,6 +196,7 @@ mindmap
       Computer Networks
       Object-Oriented Design
 ```
+
 </div>
 ---
 
