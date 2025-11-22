@@ -46,15 +46,15 @@ motto: "Clean code, scalable systems, continuous learning"
 ### 💼 What I'm Learning & Building
 
 - 🔧 Building backend systems with **Java & Spring Boot**
-- 📊 Creating RESTful APIs with authentication & authorization
-- 🗄️ Working with relational databases and SQL query optimization
+- 📊 Creating RESTful APIs with authentication & authorisation
+- 🗄️ Working with relational databases and SQL query optimisation
 - 🐳 Learning Docker for containerization and deployment
-- 🧩 Practicing DSA daily on LeetCode and GeeksforGeeks
+- 🧩 Practising DSA on LeetCode and GeeksforGeeks
 - 📚 Studying system design fundamentals and scalability patterns
 
 ### 🎓 Current Goal
 
-Actively seeking **SDE roles and internships** for 2026. Preparing through structured DSA practice, building production-ready projects, and learning system design principles. Target companies include Amazon, Walmart, Salesforce, DeltaX, and Addepar.
+Actively seeking **SDE roles and internships** for 2026. Preparing through structured DSA practice, building production-ready projects, and learning system design principles. 
 
 <br clear="both" />
 
@@ -117,13 +117,12 @@ A comprehensive employee management platform with full CRUD operations, featurin
 <td width="50%">
 
 ### 🛡️ ResolveIT - Grievance Management
-**Tech Stack:** Java · Spring Boot · MySQL · REST APIs
+**Tech Stack:** ReactJS · NodeJS · ExpressJS · MySQL · REST APIs
 
 An intelligent grievance and feedback management system with:
 - User authentication and role-based access control
-- Automated ticket categorization and tracking
+- Automated ticket categorisation and tracking
 - Admin dashboard for response management
-- Scalable architecture for institutional use
 - Real-time status updates
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/hershiee/ResolveIT---Smart-Grievance-Feedback-Management-System)
