@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Harshita Gupta
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Software+Development+Engineer;Backend+Developer+%7C+Java+%26+Spring+Boot;System+Design+%7C+Microservices+%7C+DSA;Building+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Aspiring+Software+Development+Engineer;Backend+Developer+%7C+Java+%26+Spring+Boot;Final+Year+CSE+Student;Building+Scalable+Solutions" alt="Typing SVG" />
 
-### 🚀 Backend Engineer | Java & Spring Boot Specialist | SDE '26
+### 🚀 Aspiring SDE | Backend Developer | Graduating 2026
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=hershiee&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
@@ -20,10 +20,11 @@
 
 ```yaml
 name: Harshita Gupta
-role: Backend Developer & SDE Aspirant
+role: Final Year CSE Student | Aspiring Backend Developer
 batch: 2026
 education: B.Tech in Computer Science Engineering
 location: Ghaziabad, Uttar Pradesh, India
+status: Actively seeking SDE roles & internships
 
 currently_learning:
   - Microservices Architecture
@@ -42,18 +43,18 @@ motto: "Clean code, scalable systems, continuous learning"
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
 
-### 💼 What I Do
+### 💼 What I'm Learning & Building
 
-- 🔧 Build production-ready backend systems with **Java & Spring Boot**
-- 📊 Design RESTful APIs with proper authentication & authorization
-- 🗄️ Work with relational databases (MySQL, PostgreSQL) and optimize queries
-- 🐳 Containerize applications using Docker for consistent deployments
-- 🧩 Solve algorithmic challenges daily (LeetCode, GeeksforGeeks)
-- 📚 Study system design patterns for large-scale applications
+- 🔧 Building backend systems with **Java & Spring Boot**
+- 📊 Creating RESTful APIs with authentication & authorization
+- 🗄️ Working with relational databases and SQL query optimization
+- 🐳 Learning Docker for containerization and deployment
+- 🧩 Practicing DSA daily on LeetCode and GeeksforGeeks
+- 📚 Studying system design fundamentals and scalability patterns
 
-### 🎓 Current Focus
+### 🎓 Current Goal
 
-Preparing for SDE roles at top tech companies including Amazon, Walmart, Salesforce, DeltaX, and Addepar. Following a structured approach combining DSA practice, system design fundamentals, and hands-on project development.
+Actively seeking **SDE roles and internships** for 2026. Preparing through structured DSA practice, building production-ready projects, and learning system design principles. Target companies include Amazon, Walmart, Salesforce, DeltaX, and Addepar.
 
 <br clear="both" />
 
