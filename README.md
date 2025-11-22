@@ -1,11 +1,15 @@
 <div align="center">
 
+
 # Hi there! 👋 I'm Harshita Gupta
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Aspiring+Software+Development+Engineer+(SDE);Backend+Developer+%7C+Java+%26+Spring+Boot;System+Design+%7C+DSA+%7C+Microservices;Open+Source+Contributor;Building+Real+World+Projects!" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=AAspiring+Software+Development+Engineer+(SDE);Backend+Developer+%7C+Java+%26+Spring+Boot;System+Design+%7C+DSA+%7C+Microservices;Open+Source+Contributor;Building+Real+World+Projects!" />
+
 
 ### 🚀 Software Development Engineer (SDE) in the Making
 Focused on backend engineering, scalable system design, and high‑impact problem solving.
+
 
 <img src="https://komarev.com/ghpvc/?username=hershiee&label=Profile%20views&color=58A6FF&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/hershiee?label=Followers&style=for-the-badge&color=58A6FF" />
