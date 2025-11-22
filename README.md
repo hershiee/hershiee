@@ -12,11 +12,10 @@ Focused on backend engineering, scalable system design, and high‑impact proble
 
 ---
 
-## 🎯 SDE‑Focused Overview
+## 🎯 Profile Overview
 🔹 Backend Engineer specializing in **Java, Spring Boot, REST APIs, SQL, Docker**  
-🔹 Strong command over **Data Structures & Algorithms** (Striver + GFG Hybrid Plan)  
-🔹 Experience building **production‑ready backend systems** and deploying them on cloud  
-🔹 Preparing for SDE roles at **Amazon, Walmart, Salesforce, DeltaX, Addepar**, etc.  
+🔹 Strong command over **Data Structures & Algorithms**   
+🔹 Experience building **production‑ready backend systems** and deploying them on cloud    
 🔹 Passionate about **clean architecture, scalability, performance & system design basics**
 
 ---
