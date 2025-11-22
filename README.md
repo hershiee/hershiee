@@ -171,44 +171,28 @@ An intelligent grievance and feedback management system with:
 ## 🎯 SDE Preparation Roadmap
 
 <div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
-🔧 Backend Development
-Spring Boot Mastery
-Microservices Architecture
-RESTful API Design
-Security & Authentication
-Database Integration
-</td>
-<td width="33%" align="center">
-📊 DSA & Problem Solving
-LeetCode 300+ Problems
-Striver SDE Sheet
-Pattern Recognition
-Time & Space Complexity
-Competitive Programming
-</td>
-<td width="33%" align="center">
-🏗️ System Design
-Scalability Patterns
-Database Design
-Caching Strategies
-Load Balancing
-Microservices Architecture
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" colspan="2">
-💻 Core CS Fundamentals
-Operating Systems • DBMS & SQL • Computer Networks • Object-Oriented Design
-</td>
-<td width="50%" align="center">
-☁️ DevOps & Tools
-Docker & Kubernetes • AWS Services • CI/CD Pipelines • Git & Version Control
-</td>
-</tr>
-</table>
+```mermaid
+mindmap
+  root((SDE Journey))
+    Backend Development
+      Spring Boot Mastery
+      Microservices
+      API Design
+      Security & Auth
+    Data Structures & Algorithms
+      Striver SDE Sheet
+      Pattern Recognition
+    System Design
+      Scalability Patterns
+      Database Design
+      Caching Strategies
+      Load Balancing
+    Core CS Subjects
+      Operating Systems
+      DBMS & SQL
+      Computer Networks
+      Object-Oriented Design
+```
 </div>
 ---
 
